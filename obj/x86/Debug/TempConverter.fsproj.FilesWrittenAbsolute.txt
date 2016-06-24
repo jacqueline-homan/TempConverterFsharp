@@ -1,0 +1,5 @@
+/home/jacque/Projects/F-sharp/TempConverter/TempConverter/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacque/Projects/F-sharp/TempConverter/TempConverter/bin/Debug/TempConverter.exe.mdb
+/home/jacque/Projects/F-sharp/TempConverter/TempConverter/bin/Debug/TempConverter.exe
+/home/jacque/Projects/F-sharp/TempConverter/TempConverter/obj/x86/Debug/TempConverter.exe
+/home/jacque/Projects/F-sharp/TempConverter/TempConverter/obj/x86/Debug/TempConverter.exe.mdb
